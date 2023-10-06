@@ -1,11 +1,11 @@
 {
-  "name": "devhunt",
+  "name": "devHunt-Ice-Cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://petekostrytsya.github.io/DevHunt",
+  "homepage": "https://barkode.github.io/devHunt-Ice-Cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /DevHunt/"
+    "build": "parcel build src/*.html --public-url /devHunt-Ice-Cream/"
   },
   "repository": {
     "type": "git",
